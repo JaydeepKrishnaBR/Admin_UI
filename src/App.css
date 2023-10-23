@@ -1,0 +1,29 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+.allItems {
+  margin: 10px;
+}
+.table {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.tableHead {
+  font-weight: 800;
+}
+
+.others {
+  align-items: center;
+}
+ 
+.pagination {
+   margin-top: 10px;
+}
+
+.checkBox {
+  padding: 4px;
+}
