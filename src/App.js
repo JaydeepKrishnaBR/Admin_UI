@@ -235,7 +235,7 @@ const AdminPanel = () => {
         <Button
         variant='contained'
         color='primary'
-        style={{ borderRadius: "100px", marginRight: "5px" }}
+        style={{ borderRadius: "100px", width: "40px", height: "40px", marginRight: "5px" }}
         onClick={() => handlePageChange(1)}
         startIcon={<FirstPageIcon />}
         disabled={currentPage === 1}
